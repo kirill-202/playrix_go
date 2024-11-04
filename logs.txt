@@ -1,0 +1,889 @@
+[EVENT]2024/11/03 22:34:17 All rows of sheet with id 0 was hashed
+
+[EVENT]2024/11/03 22:34:17 All rows of sheet with id 1 was hashed
+
+[EVENT]2024/11/03 22:35:38 all rows of sheet with id 0 was hashed
+[EVENT]2024/11/03 22:35:38 all rows of sheet with id 1 was hashed
+[EVENT]2024/11/03 22:45:27 all rows of sheet with id 1 were hashed
+[EVENT]2024/11/03 22:45:27 all rows of sheet with id 0 were hashed
+[EVENT]2024/11/03 22:47:07 all rows of sheet with id 1 were hashed
+[EVENT]2024/11/03 22:47:07 all rows of sheet with id 0 were hashed
+[EVENT]2024/11/04 01:53:58 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 01:53:58 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 01:53:58 All sheets are processed and hashed.
+[EVENT]2024/11/04 02:07:01 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 02:07:01 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 02:07:01 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:22:38 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:22:39 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:22:39 all columns of sheet with id 0 were hashed
+[ERROR]2024/11/04 04:22:40 Request failed with status 400
+[ERROR]2024/11/04 04:22:40 Error parsing json: json: cannot unmarshal object into Go value of type []main.Grid
+[EVENT]2024/11/04 04:22:40 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:25:05 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:25:05 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:25:05 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:25:06 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:26:00 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:26:02 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:26:02 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:26:02 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:32:43 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:32:44 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:32:44 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:32:45 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:33:29 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:33:30 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:33:30 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:33:31 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:39:27 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:39:29 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:39:29 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:39:29 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:54:18 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:54:20 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:54:20 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:54:20 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:55:42 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:55:43 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:55:43 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:55:44 All sheets are processed and hashed.
+[EVENT]2024/11/04 04:55:49 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 04:55:51 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 04:55:51 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 04:55:51 All sheets are processed and hashed.
+[EVENT]2024/11/04 05:04:53 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 05:04:55 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 05:04:55 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 05:04:56 All sheets are processed and hashed.
+[EVENT]2024/11/04 05:06:45 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 05:06:47 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 05:06:47 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 05:06:48 All sheets are processed and hashed.
+[EVENT]2024/11/04 05:12:28 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 05:12:30 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 05:12:30 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 05:12:31 All sheets are processed and hashed.
+[EVENT]2024/11/04 05:22:37 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[EVENT]2024/11/04 05:22:39 all columns of sheet with id 1 were hashed
+[EVENT]2024/11/04 05:22:39 all columns of sheet with id 0 were hashed
+[EVENT]2024/11/04 05:22:40 All sheets are processed and hashed.
+[EVENT]2024/11/04 13:53:21 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 13:53:23 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 13:53:23 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 13:53:23 All sheets are processed and hashed.
+[EVENT]2024/11/04 13:55:41 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 13:55:42 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 13:55:42 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 13:55:43 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:00:43 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 14:00:45 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 14:00:45 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 14:00:45 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:02:52 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 14:02:53 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 14:02:53 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 14:02:54 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:05:02 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 14:05:05 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 14:05:05 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 14:05:05 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:05:31 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 14:05:31 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 14:05:31 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 14:05:32 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:06:34 Sheet titles to sync in GoogleSheet and Gridly:  [Totoshka Bro]
+
+[ERROR]2024/11/04 14:06:35 can't open sheet Bro : sheet not found by the title
+[ERROR]2024/11/04 14:06:35 can't open sheet Totoshka : sheet not found by the title
+[EVENT]2024/11/04 14:06:36 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:08:27 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[ERROR]2024/11/04 14:08:28 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:08:28 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 14:08:28 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:12:58 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:12:59 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:12:59 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:12:59 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:17:28 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:17:30 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:17:30 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:17:31 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:20:27 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:20:28 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:20:28 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:20:28 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:21:47 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:21:48 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:21:48 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:21:49 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:26:44 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:26:46 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:26:46 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:26:47 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:29:57 Sheet titles to sync in GoogleSheet and Gridly:  [Static Text Game Text]
+
+[EVENT]2024/11/04 14:29:59 all columns of sheet with title Game Text were hashed
+[ERROR]2024/11/04 14:29:59 can't open sheet Static Text : sheet not found by the title
+[EVENT]2024/11/04 14:29:59 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:31:19 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 14:31:20 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 14:31:20 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 14:31:21 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:32:42 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 14:32:43 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 14:32:43 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 14:32:44 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:42:05 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 14:42:07 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 14:42:07 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 14:42:07 All sheets are processed and hashed.
+[EVENT]2024/11/04 14:53:40 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 14:53:42 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 14:53:42 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 14:53:43 All sheets are processed and hashed.
+[EVENT]2024/11/04 15:06:18 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 15:06:20 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 15:06:20 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 15:06:21 All sheets are processed and hashed.
+[EVENT]2024/11/04 15:12:21 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 15:12:23 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 15:12:23 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 15:12:24 All sheets are processed and hashed.
+[EVENT]2024/11/04 15:14:09 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 15:14:10 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 15:14:10 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 15:14:11 All sheets are processed and hashed.
+[EVENT]2024/11/04 20:10:52 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:10:54 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:10:54 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:10:54 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:10:54 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:10:54 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:12:35 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:12:36 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:12:36 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:12:36 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:12:36 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:12:36 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:13:16 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:13:17 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:13:17 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:13:18 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:13:18 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:13:18 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:16:46 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:16:47 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:16:47 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:16:48 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:16:48 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:16:48 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:17:34 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:17:35 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:17:35 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:17:36 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:17:36 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:17:36 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:19:43 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:19:44 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:19:44 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:19:45 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:19:45 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:19:45 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:20:01 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:20:02 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:20:02 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:20:02 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:20:02 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:20:02 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:22:40 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:22:41 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:22:41 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:22:42 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:22:42 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:22:42 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:58:11 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:58:12 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:58:12 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:58:12 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:58:12 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:58:12 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:58:51 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 20:58:52 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:58:52 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:58:53 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 20:58:53 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:58:53 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 20:58:53 Initiate a new Gridly check
+[EVENT]2024/11/04 20:59:13 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:59:13 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:59:13 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:13 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:13 Initiate a new Gridly check
+[EVENT]2024/11/04 20:59:33 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:59:33 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:59:33 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:33 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:33 Initiate a new Gridly check
+[EVENT]2024/11/04 20:59:53 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 20:59:53 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 20:59:53 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:53 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 20:59:53 Initiate a new Gridly check
+[EVENT]2024/11/04 21:00:13 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:00:13 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:00:13 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:13 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:13 Initiate a new Gridly check
+[EVENT]2024/11/04 21:00:33 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:00:33 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:00:33 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:33 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:33 Initiate a new Gridly check
+[EVENT]2024/11/04 21:00:53 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:00:53 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:00:53 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:53 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:00:53 Initiate a new Gridly check
+[EVENT]2024/11/04 21:01:13 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:01:13 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:01:13 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:01:13 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:01:13 Initiate a new Gridly check
+[EVENT]2024/11/04 21:07:47 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 21:07:48 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:07:48 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:07:49 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 21:07:49 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:07:49 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:07:49 Initiate a new Gridly check
+[EVENT]2024/11/04 21:08:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:08:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:08:09 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:08:09 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:08:09 Initiate a new Gridly check
+[EVENT]2024/11/04 21:08:29 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:08:29 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:08:29 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:08:29 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:08:29 Initiate a new Gridly check
+[EVENT]2024/11/04 21:08:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:08:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:08:49 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:08:49 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:08:50 Initiate a new Gridly check
+[EVENT]2024/11/04 21:09:10 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:09:10 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:09:10 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:09:10 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:09:10 Initiate a new Gridly check
+[EVENT]2024/11/04 21:09:30 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:09:30 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:09:30 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:09:30 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:09:30 Initiate a new Gridly check
+[EVENT]2024/11/04 21:09:50 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:09:50 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:09:50 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:09:50 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:09:50 Initiate a new Gridly check
+[EVENT]2024/11/04 21:10:10 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:10:10 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:10:10 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:10:10 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:10:11 Initiate a new Gridly check
+[EVENT]2024/11/04 21:10:19 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 21:10:20 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:10:20 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:10:20 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 21:10:20 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:10:20 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:10:20 Initiate a new Gridly check
+[EVENT]2024/11/04 21:10:40 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:10:40 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:10:40 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:10:40 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:10:40 Initiate a new Gridly check
+[EVENT]2024/11/04 21:11:00 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:11:00 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:11:00 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:11:00 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:11:01 Initiate a new Gridly check
+[EVENT]2024/11/04 21:11:21 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:11:21 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:11:21 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:11:21 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:11:21 Initiate a new Gridly check
+[EVENT]2024/11/04 21:11:48 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 21:11:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:11:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:11:49 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 21:11:49 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:11:49 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:11:49 Initiate a new Gridly check
+[EVENT]2024/11/04 21:12:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:12:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:12:09 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:09 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:09 Initiate a new Gridly check
+[EVENT]2024/11/04 21:12:29 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:12:29 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:12:29 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:29 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:29 Initiate a new Gridly check
+[EVENT]2024/11/04 21:12:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:12:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:12:49 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:49 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:12:49 Initiate a new Gridly check
+[EVENT]2024/11/04 21:13:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:13:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:13:09 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:09 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:09 Initiate a new Gridly check
+[EVENT]2024/11/04 21:13:29 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:13:29 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:13:29 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:29 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:29 Initiate a new Gridly check
+[EVENT]2024/11/04 21:13:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:13:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:13:49 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:49 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:13:49 Initiate a new Gridly check
+[EVENT]2024/11/04 21:14:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:14:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:14:09 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:14:09 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:14:09 Initiate a new Gridly check
+[EVENT]2024/11/04 21:14:29 Sheet titles to sync in GoogleSheet and Gridly:  [Static Texts Game Text]
+
+[EVENT]2024/11/04 21:14:30 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:14:30 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:14:30 All Init sheets are processed and hashed.
+[EVENT]2024/11/04 21:14:30 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:14:30 Greedly Sheet Static Texts is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:14:30 Initiate a new Gridly check
+[EVENT]2024/11/04 21:14:50 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:14:50 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:14:50 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:14:50 Greedly Sheet Game Text is not equal or found in Init Google Sheet. Need to update Greedly
+[EVENT]2024/11/04 21:14:51 Initiate a new Gridly check
+[EVENT]2024/11/04 21:15:11 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/04 21:15:11 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/04 21:15:11 Greedly Sheet Game Text fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:15:11 Greedly Sheet Static Texts fully match Init Google Sheet
+
+[EVENT]2024/11/04 21:15:11 Initiate a new Gridly check
+[EVENT]2024/11/05 00:35:26 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 00:35:28 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:35:28 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:35:28 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 00:35:28 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:35:28 Greedly Sheet Game Text fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:35:28 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:35:48 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:35:48 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:35:48 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:35:48 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:35:48 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:36:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:36:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:36:09 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:09 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:09 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:36:29 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:36:29 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:36:29 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:29 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:29 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:36:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:36:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:36:49 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:49 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:36:49 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:37:32 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 00:37:33 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:37:33 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:37:33 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 00:37:33 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 00:37:33 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:37:33 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:37:53 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:37:53 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:37:53 Greedly Sheet Game Text needs update to match Google Sheet
+[EVENT]2024/11/05 00:37:54 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:37:54 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:38:14 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:38:14 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:38:14 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:38:14 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:38:14 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:38:34 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:38:34 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:38:34 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:38:34 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:38:34 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:38:44 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 00:38:45 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:38:45 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:38:45 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 00:38:45 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:38:45 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 00:38:45 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:39:06 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:39:06 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:39:06 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:39:06 Greedly Sheet Game Text needs update to match Google Sheet
+[EVENT]2024/11/05 00:39:06 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:39:26 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:39:26 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:39:26 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:39:26 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:39:26 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:39:46 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:39:46 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:39:46 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:39:46 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:39:46 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:40:06 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:40:06 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:40:06 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:40:06 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:40:06 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:42:26 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 00:42:27 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:42:27 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:42:28 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 00:42:28 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:42:28 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 00:42:28 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:42:48 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:42:48 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:42:48 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:42:48 Greedly Sheet Game Text needs update to match Google Sheet
+[EVENT]2024/11/05 00:42:48 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:43:08 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:43:08 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:43:08 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:08 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:08 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:43:28 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:43:28 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:43:28 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:28 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:28 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:43:48 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:43:48 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:43:48 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:48 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:43:48 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:44:08 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:44:08 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:44:08 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:08 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:08 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:44:28 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:44:28 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:44:28 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:28 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:28 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:44:48 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:44:48 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:44:48 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:48 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:44:48 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:45:08 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:45:08 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:45:08 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:45:08 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:45:08 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:45:28 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:45:28 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:45:28 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:45:28 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:45:28 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:45:31 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 00:45:32 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:45:32 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:45:33 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 00:45:33 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 00:45:33 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 00:45:33 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:45:53 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:45:53 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:45:53 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:45:53 Greedly Sheet Game Text needs update to match Google Sheet
+[EVENT]2024/11/05 00:45:54 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:46:14 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:46:14 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:46:14 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 00:46:14 Error updating rows: error updating record GameTip_1: request failed with status 403
+[EVENT]2024/11/05 00:46:14 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:46:14 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 00:46:35 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 00:46:35 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 00:46:35 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:46:35 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 00:46:35 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:23:28 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:23:30 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:23:30 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:23:31 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:23:31 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:23:31 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:23:31 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:23:51 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:23:51 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:23:51 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:23:51 Greedly Sheet Game Text needs update to match Google Sheet
+[EVENT]2024/11/05 01:23:51 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:23:51 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:24:11 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:24:11 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:24:11 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:11 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:11 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:24:31 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:24:31 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:24:31 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:31 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:31 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:24:51 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:24:51 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:24:51 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:51 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:24:51 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:25:11 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:25:11 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:25:11 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:11 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:11 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:25:31 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:25:31 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:25:31 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:31 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:31 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:25:51 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:25:51 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:25:51 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:51 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:25:51 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:28:44 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:28:46 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:28:46 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:28:46 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:28:46 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:28:46 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:28:46 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:29:06 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:29:06 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:29:06 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:29:06 Error updating rows: error updating record GameTip_17: request failed with status 404
+[EVENT]2024/11/05 01:29:06 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:06 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:06 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:29:26 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:29:26 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:29:26 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:26 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:26 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:29:46 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:29:46 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:29:46 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:46 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:29:46 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:30:08 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:30:09 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:30:09 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:30:09 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:30:09 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:30:09 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:30:09 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:30:29 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:30:29 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:30:29 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:30:29 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:30:29 Error updating rows: error updating record GameTip_17: request failed with status 404
+[EVENT]2024/11/05 01:30:29 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:30:29 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:30:49 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:30:49 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:30:49 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:30:49 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:30:49 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:31:11 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:31:12 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:31:12 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:31:12 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:31:12 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:31:12 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:31:12 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:31:37 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:31:38 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:31:38 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:31:38 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:31:38 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:31:38 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:31:38 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:31:58 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:31:58 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:31:58 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:31:58 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:31:58 Error updating rows: error updating record GameTip_17: request failed with status 404
+[EVENT]2024/11/05 01:31:58 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:31:59 Error adding new rows: error adding new record: request failed with status 400
+[EVENT]2024/11/05 01:31:59 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:32:19 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:32:19 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:32:19 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:19 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:19 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:32:39 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:32:39 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:32:39 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:39 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:39 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:32:59 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:32:59 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:32:59 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:59 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:32:59 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:33:05 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:33:06 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:33:06 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:33:06 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:33:06 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:33:06 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:33:06 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:33:26 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:33:26 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:33:26 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:33:27 Error updating rows: error updating record GameTip_17: request failed with status 404
+[EVENT]2024/11/05 01:33:27 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:33:27 Error adding new rows: error adding new record: request failed with status 400
+[EVENT]2024/11/05 01:33:27 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:33:27 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:43:59 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:44:00 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:44:00 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:44:00 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:44:00 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:44:00 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:44:00 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:44:20 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:44:20 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:44:20 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:44:20 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:44:20 Error updating rows: error updating record GameTip_17: request failed with status 404
+[EVENT]2024/11/05 01:44:20 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:44:21 Error adding new rows: error adding new record: request failed with status 201
+[EVENT]2024/11/05 01:44:21 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:48:38 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:48:39 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:48:39 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:48:39 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:48:39 Greedly Sheet Game Text fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:48:39 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:48:39 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:48:59 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:48:59 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:48:59 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:48:59 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:48:59 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:49:19 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:49:19 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:49:19 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:19 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:19 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:49:39 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:49:39 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:49:39 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:39 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:39 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:49:59 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:49:59 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:49:59 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:59 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:49:59 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:50:14 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:50:15 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:50:15 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:50:16 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:50:16 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:50:16 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:50:16 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:50:36 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:50:36 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:50:36 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:50:36 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:50:36 Error updating rows: error updating record GameTip_18: request failed with status 404
+[EVENT]2024/11/05 01:50:36 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:50:36 Error adding new rows: error adding new record: request failed with status 201
+[EVENT]2024/11/05 01:50:36 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:50:56 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:50:56 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:50:56 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:50:56 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:50:56 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:51:16 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:51:16 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:51:16 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:16 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:16 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:51:36 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:51:36 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:51:36 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:36 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:36 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:51:56 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:51:56 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:51:56 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:56 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:51:56 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:52:16 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:52:16 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:52:16 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:16 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:16 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:52:36 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:52:36 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:52:36 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:36 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:36 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:52:56 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:52:56 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:52:56 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:56 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:52:56 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:53:16 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:53:16 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:53:16 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:16 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:16 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:53:36 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:53:36 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:53:36 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:36 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:36 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:53:56 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:53:56 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:53:56 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:56 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:53:56 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:54:02 Sheet titles to sync in GoogleSheet and Gridly: [Static Texts Game Text]
+[EVENT]2024/11/05 01:54:03 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:54:03 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:54:04 All initial sheets processed and checksums calculated.
+[EVENT]2024/11/05 01:54:04 Greedly Sheet Game Text does not match initial Google Sheet; updating Greedly
+[EVENT]2024/11/05 01:54:04 Greedly Sheet Static Texts fully matches the initial Google Sheet
+[EVENT]2024/11/05 01:54:04 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:54:24 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:54:24 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:54:24 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:54:24 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:54:24 Error updating rows: error updating record GameTip_19: request failed with status 404
+[EVENT]2024/11/05 01:54:24 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:54:25 Error adding new rows: error adding new record: request failed with status 201
+[EVENT]2024/11/05 01:54:25 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:54:45 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:54:45 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:54:45 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:54:45 Greedly Sheet Game Text needs update to match Google Sheet
+[ERROR]2024/11/05 01:54:45 Error updating rows: error updating record GameTip_20: request failed with status 403
+[EVENT]2024/11/05 01:54:45 Adding new rows to Gridly Sheet Game Text
+[ERROR]2024/11/05 01:54:45 Error adding new rows: error adding new record: request failed with status 403
+[EVENT]2024/11/05 01:54:45 Starting a new Gridly synchronization check
+[EVENT]2024/11/05 01:55:05 all columns of sheet with title Game Text were hashed
+[EVENT]2024/11/05 01:55:05 all columns of sheet with title Static Texts were hashed
+[EVENT]2024/11/05 01:55:05 Greedly Sheet Game Text fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:55:05 Greedly Sheet Static Texts fully matches the updated Google Sheet
+[EVENT]2024/11/05 01:55:05 Starting a new Gridly synchronization check
