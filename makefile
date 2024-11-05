@@ -7,8 +7,8 @@ CONTAINER_NAME = sheet-gridly
 docker:
 	docker build -t $(IMAGE_NAME) .
 
-run: docker
+run: 
 	docker run -d --name $(CONTAINER_NAME) \
 	--env-file .env \
-	-v $(PWD)/client_secret.json:/app/client_secret.json \
+	-v ./client_secret.json:/app_config/client_secret.json \
 	$(IMAGE_NAME)
